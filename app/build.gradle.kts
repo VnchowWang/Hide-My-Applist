@@ -22,7 +22,7 @@ android {
     namespace = "com.tsng.hidemyapplist"
 
     defaultConfig {
-        applicationId = "com.gotokeep.keep"
+        applicationId = "com.bilibili.pili"
     }
 
     buildFeatures {
